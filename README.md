@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikuczi
-- 👀 I’m interested in User Experience Design
+- User Experience Design
 
 <!---
 mikuczi/mikuczi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
